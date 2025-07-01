@@ -8,7 +8,7 @@
 - 按关键词筛选域名
 - 支持三种筛选方式：包含、开头是、结尾是
 - 显示筛选结果计数
-[截图](https://github.com/itandelin/Domain-Filter/blob/main/20250702-001256%402x.png)
+![截图](https://github.com/itandelin/Domain-Filter/blob/main/20250702-001256%402x.png)
 ## 使用方法
 
 1. 确保项目根目录下有 com.txt 文件（每行一个域名）
